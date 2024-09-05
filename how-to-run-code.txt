@@ -1,0 +1,18 @@
+
+
+To run the knn Algorithm:
+- In the terminal, go to location of knnAlgorithm.py & iris.csv (should be in same folder)
+- Enter command in terminal: python3 knnAlgorithm.py iris.csv
+- This will: 
+    Pop up window of plot depicting value of k vs accuracy for both predicting training & testing sets
+
+
+To run the decision tree algorithm:
+- In the terminal, go to location of decisionTreeAlgorithm.py & house_votes_84.csv (should be in same folder)
+- Enter command in terminal: python3 decisionTreeAlgorithm.py house_votes_84.csv
+- This will:
+    Print out average accuracy from predicting training set 100 times
+    Print out standard deviation from predicting training set 100 times
+    Print out average accuracy from predicting testing set 100 times
+    Print out standard deviation from predicting testing set 100 times
+    Pop up window of the histogram depicting accuracy vs frequency for both predicting training & testing sets
